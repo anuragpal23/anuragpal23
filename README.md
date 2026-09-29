@@ -65,4 +65,38 @@
 <p align="center">
   <b>Build Real-World Projects • Improve Coding Skills • Learn New Technologies • Contribute to Open Source</b>
 </p>
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 🛒 Blinkit Clone
+
+A grocery delivery web application inspired by Blinkit.
+
+**Tech:** JavaScript • HTML • CSS • Backend
+
+---
+
+## 📚 Currently Learning
+
+- Java ☕
+- DSA 🧠
+- JavaScript ⚡
+- Web Development 🌐
+- Backend Development 🔥
+
+---
+
+## 🎯 Goal
+
+```text
+Building → Learning → Improving 🚀
 
